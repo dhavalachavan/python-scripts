@@ -1,0 +1,4 @@
+f.open('home/Downloads/dhaval.doc','w')
+print f
+f.write('dhaval\n')
+f.write('chavan\n')
